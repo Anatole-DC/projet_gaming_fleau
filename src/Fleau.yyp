@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "2b55b26d-fee8-4a8a-bc18-82a200071ec5",
+            "Value": {
+                "id": "a66bfc3d-a180-4db3-8a07-63172cac9e97",
+                "resourcePath": "sprites\\s_rat_idle\\s_rat_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2ff6668e-7ada-4454-974e-1bd249c24f23",
             "Value": {
                 "id": "6d3aadd1-a8be-4ea3-b0f1-58af851d9a5f",
