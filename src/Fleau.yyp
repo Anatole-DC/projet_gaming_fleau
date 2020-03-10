@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "53854954-3666-4f93-ab86-3d6fe6115ef1",
+            "Value": {
+                "id": "2979ccea-2db7-43fe-8605-8c2cab20e804",
+                "resourcePath": "views\\53854954-3666-4f93-ab86-3d6fe6115ef1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5c960bae-e6e5-474a-a116-f173f7c10ef3",
             "Value": {
                 "id": "231501e1-503f-40d1-bad7-c50dbeed2161",
@@ -132,6 +140,14 @@
                 "id": "76fea432-2704-4ef6-b992-5a2115d48022",
                 "resourcePath": "views\\6283b29b-0279-4a6f-90b9-ec265c96910a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "642ab564-a994-41aa-b571-db86d92a59a3",
+            "Value": {
+                "id": "fe3f6f34-5d75-4278-b0ad-c7ec4fa78842",
+                "resourcePath": "objects\\o_controller_game\\o_controller_game.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -188,6 +204,14 @@
                 "id": "bd9ea65a-3f69-4728-ae08-82d1d3776969",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b1fb8af2-8999-4762-a5fc-5e3a9daa4e02",
+            "Value": {
+                "id": "d1fdbea6-04f7-4b4e-991b-825e38458a9c",
+                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
