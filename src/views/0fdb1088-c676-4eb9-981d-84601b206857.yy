@@ -4,8 +4,7 @@
     "mvc": "1.1",
     "name": "0fdb1088-c676-4eb9-981d-84601b206857",
     "children": [
-        "bc11c0a3-ae1c-4ae5-9c3c-b0ee306d6e02",
-        "9c37aa37-7564-496b-b3ad-b8fbe4ece8b3"
+        
     ],
     "filterType": "GMSprite",
     "folderName": "Joueur",
