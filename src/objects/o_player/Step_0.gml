@@ -3,22 +3,55 @@
 
 // Gestion du clavier
 
-keypress_right = keyboard_check(global.right);
-keypress_left = keyboard_check(global.left);
-keypress_jump = keyboard_check(global.jump);
 
-// Mouvements
+press_right = keyboard_check(global.right);
+press_left = keyboard_check(global.left);
+press_jump = keyboard_check(global.jump);
+
+
+// Mouvements du personnage
+
 
 var directionMove = press_right - press_left; // Soit 0, soit 1, soit -1
 horizontalSpeed = directionMove * walkSpeed;
 verticalSpeed += playerGravity;
 
-//			Droite
 
-if( keypress_right ){
+// Collision horizontale
+
+
+if( place_meeting( x + horizontalSpeed, y, o_solid) ) {
+	while( !place_meeting( x + sign( horizontalSpeed), y, o_solid ) ) {
+		x += sign( horizontalSpeed );
+	}
+	horizontalSpeed = 0;
+}
+x += horizontalSpeed;
+
+
+// Collision verticale
+
+
+if( place_meeting( x, y + verticalSpeed, o_solid) ) {
+	while( !place_meeting( x, y + sign( verticalSpeed), o_solid ) ) {
+		y += sign( verticalSpeed );
+	}
+	verticalSpeed = 0;
+}
+y += verticalSpeed;
+
+
+// Saut
+
+
+if( press_jump && place_meeting( x, y + 1, o_solid ) ) {
+	verticalSpeed = jumpingHight;	
 }
 
-//			Gauche
+
+// Gestion des sprites
 
 
-//			Saut
+if( horizontalSpeed != 0 ) {
+	image_xscale = sign( horizontalSpeed );	
+}
