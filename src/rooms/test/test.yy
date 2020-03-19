@@ -7,17 +7,15 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "73bd1e3b-27d5-4a1e-8ebb-aba8203e32e8"
+        "73bd1e3b-27d5-4a1e-8ebb-aba8203e32e8",
+        "ba6b58bd-5923-412c-a344-2696cafb6c58"
     ],
     "IsDnD": false,
     "layers": [
         {
-            "__type": "GMRAssetLayer_Model:#YoYoStudio.MVCFormat",
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Joueur",
-            "id": "c1a5d704-7fb9-4ffc-ac55-691936f23278",
-            "assets": [
-
-            ],
+            "id": "63804ee4-d7bf-494d-aeb9-487b5d4deb6a",
             "depth": 0,
             "grid_x": 32,
             "grid_y": 32,
@@ -27,12 +25,15 @@
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
             "inheritVisibility": false,
+            "instances": [
+{"name": "inst_5FCA6D71","id": "ba6b58bd-5923-412c-a344-2696cafb6c58","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5FCA6D71","objId": "4b6caf00-e8e5-4f7b-93e1-56103b422803","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 384,"y": 448}
+            ],
             "layers": [
 
             ],
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
-            "modelName": "GMRAssetLayer",
+            "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
             "userdefined_depth": false,
             "visible": true
