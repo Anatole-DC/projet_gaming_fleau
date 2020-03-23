@@ -10,6 +10,8 @@ jumpingHight = -10;
 
 // Vitesse de déplacement
 
+playerSpeed = 0;
+
 crawlSpeed = 2;
 walkSpeed = 4;
 sprintSpeed = 8;

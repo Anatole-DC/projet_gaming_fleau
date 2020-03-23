@@ -9,10 +9,23 @@ press_left = keyboard_check(global.left);
 press_jump = keyboard_check(global.jump);
 
 
-// Test du double tap
+// reset des variables
+
+
+if( !press_right && !press_left) {
+	playerSpeed = walkSpeed;
+}
+
+
+// Gestion vitesse
+
 
 if( double_tap( global.right ) ) {
-	show_debug_message( "Appel tmln_double_tap" );
+	playerSpeed = sprintSpeed;
+}
+
+if( double_tap( global.left ) ) {
+	playerSpeed = sprintSpeed;
 }
 
 
@@ -20,7 +33,7 @@ if( double_tap( global.right ) ) {
 
 
 var directionMove = press_right - press_left; // Soit 0, soit 1, soit -1
-horizontalSpeed = directionMove * walkSpeed;
+horizontalSpeed = directionMove * playerSpeed;
 verticalSpeed += playerGravity;
 
 
