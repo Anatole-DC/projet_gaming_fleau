@@ -9,6 +9,13 @@ press_left = keyboard_check(global.left);
 press_jump = keyboard_check(global.jump);
 
 
+// Test du double tap
+
+if( double_tap( global.right ) ) {
+	show_debug_message( "Appel tmln_double_tap" );
+}
+
+
 // Mouvements du personnage
 
 

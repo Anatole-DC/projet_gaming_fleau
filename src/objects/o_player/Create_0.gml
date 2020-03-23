@@ -10,9 +10,16 @@ jumpingHight = -10;
 
 // Vitesse de déplacement
 
+crawlSpeed = 2;
 walkSpeed = 4;
-runSpeed = 8;
+sprintSpeed = 8;
 
 // Gestion de la vie
 
 global.hp = 1;
+
+// Boolean
+
+doubleTap = false;
+sprint = false;
+crawl = false;

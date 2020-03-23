@@ -6,7 +6,8 @@
     "children": [
         "15065e07-a5e7-4461-a6ae-bd1d0d294187",
         "7106e915-598c-496e-ab47-6de10af21fdc",
-        "5c960bae-e6e5-474a-a116-f173f7c10ef3"
+        "5c960bae-e6e5-474a-a116-f173f7c10ef3",
+        "3f41d38c-c554-45bc-9555-e7ca4f2c20da"
     ],
     "filterType": "GMSprite",
     "folderName": "Interface",

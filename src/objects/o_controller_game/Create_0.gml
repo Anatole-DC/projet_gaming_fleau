@@ -3,9 +3,9 @@
 
 // Gestion du clavier
 
-global.right = vk_right;
-global.left = vk_left;
-global.jump = vk_space;
+global.right = ord("D");
+global.left = ord("Q");
+global.jump = ord("Z");
 
 // Variables gloabales pour tous les objets
 
