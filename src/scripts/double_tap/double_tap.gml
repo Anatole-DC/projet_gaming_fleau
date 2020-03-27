@@ -3,8 +3,6 @@
 /*
 	Fonction qui permet de savoir si un joueur a double tap sur une touche du clavier
 	
-	A l'appel : double_tap(touche)
-	
 	Argument0 : touche du clavier à écouter
 	
 	Retourne : True si le joueur a bien effectuer le double tap

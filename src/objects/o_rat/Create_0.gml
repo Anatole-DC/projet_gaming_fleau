@@ -13,6 +13,11 @@ ratSpeed = 6;
 
 // Comportement
 
-agressif = false;
+aggressif = false;
 peur = false;
-detection = false;
+detect = false;
+
+// Création zone de détection
+
+detectionRange = global.detectionRange;
+triggeredRange = global.triggeredRange;

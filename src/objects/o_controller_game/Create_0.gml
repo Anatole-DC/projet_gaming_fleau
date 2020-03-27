@@ -10,3 +10,8 @@ global.jump = ord("Z");
 // Variables gloabales pour tous les objets
 
 global.grav = 0.5;
+
+// Variables de détection pour les rats
+
+global.detectionRange = 200;
+global.triggeredRange = 100;

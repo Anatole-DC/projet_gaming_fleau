@@ -12,3 +12,20 @@ if( place_meeting( x, y + verticalSpeed, o_solid) ) {
 	verticalSpeed = 0;
 }
 y += verticalSpeed;
+
+// Gère la détection du joueur
+
+detect = detection(o_player,detectionRange);
+aggressif = detection(o_player,triggeredRange);
+
+if( detect ) {
+	show_debug_message( "Le rat a détecté qqch..." );
+}
+
+if( aggressif ) {
+	show_debug_message( "Le rat a poursuit le joueur..." );
+}
+
+if( !detect ) {
+	show_debug_message( "Le rat est passif..." );
+}

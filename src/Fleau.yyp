@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "c3955eea-7c63-4e6a-971c-70080b1f3bc2",
+            "Value": {
+                "id": "fdff2f2b-13f6-432b-b543-8db1b690cf25",
+                "resourcePath": "scripts\\detection\\detection.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "75bac0a9-4f00-4a60-92b7-d7d14afb789b",
