@@ -1,0 +1,13 @@
+{
+    "id": "38566c0c-1a0f-4df1-8916-ee9d66ff0f90",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "38566c0c-1a0f-4df1-8916-ee9d66ff0f90",
+    "children": [
+        "0b730283-66f9-4291-ad44-fb95a41c3f06"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Immeuble",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

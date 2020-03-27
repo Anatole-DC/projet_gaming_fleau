@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "08af3f54-7ec6-4585-bcf7-5aa354802d40",
+            "Value": {
+                "id": "e48b93bc-22a0-4cba-9f71-8566f7d41562",
+                "resourcePath": "sprites\\s_immeuble_etage\\s_immeuble_etage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0b730283-66f9-4291-ad44-fb95a41c3f06",
+            "Value": {
+                "id": "0b6cd6fa-0c9b-4dc5-ad4e-aa1524ad0465",
+                "resourcePath": "objects\\o_immeuble_etage\\o_immeuble_etage.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ce9fc2d-33cf-4fb9-b6ac-e195d70ef99e",
             "Value": {
                 "id": "13cd17b5-adcd-4c06-99e8-5428eab02edd",
@@ -143,6 +159,22 @@
             }
         },
         {
+            "Key": "38566c0c-1a0f-4df1-8916-ee9d66ff0f90",
+            "Value": {
+                "id": "659decd8-ec46-4808-b646-8fcae5e3d795",
+                "resourcePath": "views\\38566c0c-1a0f-4df1-8916-ee9d66ff0f90.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3a0fec8a-7866-4dd8-a778-d2d784083df5",
+            "Value": {
+                "id": "521ad825-004f-4ee0-beab-b221e0fb0ec4",
+                "resourcePath": "views\\3a0fec8a-7866-4dd8-a778-d2d784083df5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3c6fca8e-8be0-4a48-b552-a090ba77af15",
             "Value": {
                 "id": "14e4eec9-8d3d-45cc-a005-4b9125f6e0d5",
@@ -156,6 +188,14 @@
                 "id": "e3999b7f-a9d4-432e-8e56-98ec1d96f7e5",
                 "resourcePath": "views\\3f41d38c-c554-45bc-9555-e7ca4f2c20da.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "49cab102-921b-49e1-a566-3cb6fbbf229d",
+            "Value": {
+                "id": "8e370a5a-b5cd-43d2-b26c-7964c68332f6",
+                "resourcePath": "sprites\\s_background\\s_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -188,6 +228,14 @@
                 "id": "1870aa9d-b4df-40be-9904-e1889ff5d7c8",
                 "resourcePath": "sprites\\s_route\\s_route.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4dce6b72-e391-4acd-99ef-04a651859d71",
+            "Value": {
+                "id": "0d6a0d81-0068-47d4-ac12-df5eedecf87f",
+                "resourcePath": "objects\\o_poubelle\\o_poubelle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -295,6 +343,14 @@
             }
         },
         {
+            "Key": "703c706c-1cd1-45a1-9bbd-5f29c7af2d8b",
+            "Value": {
+                "id": "e2d2338e-ac0c-48c5-a782-3d8b8c2cfec5",
+                "resourcePath": "views\\703c706c-1cd1-45a1-9bbd-5f29c7af2d8b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7106e915-598c-496e-ab47-6de10af21fdc",
             "Value": {
                 "id": "0fbf370f-bc3d-429c-a769-fc44c4bb8811",
@@ -340,6 +396,14 @@
                 "id": "9104e874-77b3-44e7-a747-db010561e961",
                 "resourcePath": "objects\\o_button_restart\\o_button_restart.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "983a1587-86ca-4f05-b2c5-f4551ce1708e",
+            "Value": {
+                "id": "aac35aea-6fd0-4b43-9c35-d84170f081cc",
+                "resourcePath": "views\\983a1587-86ca-4f05-b2c5-f4551ce1708e.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -540,6 +604,14 @@
                 "id": "54c2c0c0-8aff-46b5-a1ca-f7b1a1afcbfe",
                 "resourcePath": "views\\eb100af5-d522-4eda-9fd4-eaf5dcb11bb2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f1bc2acc-e1e1-42dd-8576-1d625de2b29f",
+            "Value": {
+                "id": "85dba164-870e-456a-af38-c3edababbb2c",
+                "resourcePath": "sprites\\s_poubelle\\s_poubelle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

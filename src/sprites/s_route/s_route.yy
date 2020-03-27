@@ -75,7 +75,7 @@
             "blendMode": 0,
             "isLocked": false,
             "name": "Imperfections route",
-            "opacity": 100,
+            "opacity": 50,
             "visible": true
         },
         {
