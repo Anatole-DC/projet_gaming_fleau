@@ -455,6 +455,14 @@
             }
         },
         {
+            "Key": "e95f2b29-368b-4cd7-8e1c-3658c9feabdf",
+            "Value": {
+                "id": "751f9ba6-e2ca-4e9b-b594-2ee55d263b1d",
+                "resourcePath": "objects\\o_rat\\o_rat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eb100af5-d522-4eda-9fd4-eaf5dcb11bb2",
             "Value": {
                 "id": "54c2c0c0-8aff-46b5-a1ca-f7b1a1afcbfe",
