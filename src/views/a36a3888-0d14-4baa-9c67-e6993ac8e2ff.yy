@@ -4,11 +4,9 @@
     "mvc": "1.1",
     "name": "a36a3888-0d14-4baa-9c67-e6993ac8e2ff",
     "children": [
-        "c346e4ca-a63c-4f86-8151-91811be92eb3",
-        "7f5ffe5e-487b-43ed-bd6b-1203fbd229d8",
-        "1d58bb79-afc4-4689-8c8f-0603d327f0b6",
-        "4ccf7405-ce73-40bb-b5e3-0f52c502b64a",
-        "f1bc2acc-e1e1-42dd-8576-1d625de2b29f"
+        "3a0fec8a-7866-4dd8-a778-d2d784083df5",
+        "0d6457d8-05cc-4db7-a7e3-0ad0faed7271",
+        "9b2da92b-0241-4b6c-9cf1-0026ab505c87"
     ],
     "filterType": "GMSprite",
     "folderName": "Rues",

@@ -6,7 +6,8 @@
     "children": [
         "523e82e7-1058-4c20-bcf6-0a4ea97ce4b9",
         "d6ed6ad4-73e9-4f31-bae8-8d7a5b50acd1",
-        "4dce6b72-e391-4acd-99ef-04a651859d71"
+        "4dce6b72-e391-4acd-99ef-04a651859d71",
+        "b4a8beb0-e1e3-4a30-924e-e4bfeee551a0"
     ],
     "filterType": "GMObject",
     "folderName": "Decors",
