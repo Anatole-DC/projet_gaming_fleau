@@ -1,14 +1,14 @@
 {
-    "id": "ddf3a748-1b35-4ce0-bef8-0e5d44f91e47",
+    "id": "d6ed6ad4-73e9-4f31-bae8-8d7a5b50acd1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_trottoir",
+    "name": "o_route",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "26dde180-f719-4f15-9f63-99cdcfd684a0",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7f5ffe5e-487b-43ed-bd6b-1203fbd229d8",
+    "spriteId": "4ccf7405-ce73-40bb-b5e3-0f52c502b64a",
     "visible": true
 }
