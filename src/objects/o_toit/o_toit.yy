@@ -1,19 +1,10 @@
 {
-    "id": "4dce6b72-e391-4acd-99ef-04a651859d71",
+    "id": "e460ad95-5572-48f2-aa0b-b16d9e26916b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_poubelle",
+    "name": "o_toit",
     "eventList": [
-        {
-            "id": "a97c9309-8bce-402b-b32b-21b568bea2de",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "4dce6b72-e391-4acd-99ef-04a651859d71"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f1bc2acc-e1e1-42dd-8576-1d625de2b29f",
+    "spriteId": "fcc29f83-029c-4239-bfab-56900c142241",
     "visible": true
 }

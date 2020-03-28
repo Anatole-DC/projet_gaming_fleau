@@ -19,13 +19,13 @@ detect = detection(o_player,detectionRange);
 aggressif = detection(o_player,triggeredRange);
 
 if( detect ) {
-	show_debug_message( "Le rat a détecté qqch..." );
+	//show_debug_message( "Le rat a détecté qqch..." );
 }
 
 if( aggressif ) {
-	show_debug_message( "Le rat a poursuit le joueur..." );
+	//show_debug_message( "Le rat a poursuit le joueur..." );
 }
 
 if( !detect ) {
-	show_debug_message( "Le rat est passif..." );
+	//show_debug_message( "Le rat est passif..." );
 }
