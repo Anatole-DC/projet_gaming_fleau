@@ -4,7 +4,6 @@
     "mvc": "1.1",
     "name": "cf860fe8-404a-4f83-98a9-5bd4248a6dd8",
     "children": [
-        "5405a559-723e-4aa2-aeae-58f422819388",
         "2b55b26d-fee8-4a8a-bc18-82a200071ec5"
     ],
     "filterType": "GMSprite",
