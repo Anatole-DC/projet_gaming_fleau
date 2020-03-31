@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "3e45c7ae-ff73-4681-a00c-7fc36c7ede81",
+            "Value": {
+                "id": "4b256ecc-501f-4b4a-af8b-ee0b7292da69",
+                "resourcePath": "sprites\\s_player_glissade\\s_player_glissade.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3f41d38c-c554-45bc-9555-e7ca4f2c20da",
             "Value": {
                 "id": "e3999b7f-a9d4-432e-8e56-98ec1d96f7e5",
