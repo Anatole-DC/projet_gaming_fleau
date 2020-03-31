@@ -79,14 +79,6 @@
             }
         },
         {
-            "Key": "0fdb1088-c676-4eb9-981d-84601b206857",
-            "Value": {
-                "id": "2ea6f57b-4912-4957-a272-b9de02c0f3ed",
-                "resourcePath": "views\\0fdb1088-c676-4eb9-981d-84601b206857.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "120c6df9-faef-46f7-831e-ba37ced84ab4",
             "Value": {
                 "id": "7bf23d6f-e7e7-4dc0-947d-5aa582902557",
@@ -396,6 +388,14 @@
                 "id": "f1411871-1149-4a96-991a-67e3a1cb86f6",
                 "resourcePath": "sprites\\s_button_shutdown\\s_button_shutdown.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "629d30a1-542d-48cc-a1dd-83a2e88098c7",
+            "Value": {
+                "id": "48d1b99f-20bb-4ab2-ab08-29ca75bd3e61",
+                "resourcePath": "views\\629d30a1-542d-48cc-a1dd-83a2e88098c7.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
