@@ -72,6 +72,18 @@ if( press_jump && place_meeting( x, y + 1, o_solid ) ) {
 // Gestion des sprites
 
 
+if( !place_meeting( x, y + 1, o_solid ) ) { // Animation de saut
+	// sprite_index = s_player_jump;
+}
+else {
+	if( horizontalSpeed == 0 ) {
+		sprite_index = s_player_idle;
+	}
+	if( press_right or press_left ) {
+		sprite_index = s_player_walk;
+	}
+}
+
 if( horizontalSpeed != 0 ) {
 	image_xscale = sign( horizontalSpeed );	
 }
