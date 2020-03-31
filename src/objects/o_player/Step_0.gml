@@ -53,7 +53,7 @@ x += horizontalSpeed;
 
 
 if( place_meeting( x, y + verticalSpeed, o_solid) ) {
-	while( !place_meeting( x, y + sign( verticalSpeed), o_solid ) ) {
+	while( !place_meeting( x, y + sign( verticalSpeed), o_solid )) {
 		y += sign( verticalSpeed );
 	}
 	verticalSpeed = 0;
