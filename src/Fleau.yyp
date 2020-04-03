@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": false,
     "configs": [
-        
+        "default"
     ],
     "option_ecma": false,
     "parentProject": {
@@ -99,6 +99,14 @@
             "Value": {
                 "id": "07fbb1a6-6f31-4869-8c36-956b95c49b14",
                 "resourcePath": "sprites\\s_poteau\\s_poteau.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1b83350f-8fb5-4246-928f-34cce2695949",
+            "Value": {
+                "id": "fadd4cef-e59a-48d0-a1c9-78dfa300a915",
+                "resourcePath": "sprites\\s_sortie_metro\\s_sortie_metro.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "58fc8ed9-37ef-4bfe-9684-f3af0a47f42a",
+            "Value": {
+                "id": "135f2d38-5728-4e4f-9bfd-65c1a627c1a7",
+                "resourcePath": "views\\58fc8ed9-37ef-4bfe-9684-f3af0a47f42a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5cfde867-d5a4-431d-b9f6-0ca51567661b",
             "Value": {
                 "id": "f8412e5a-f178-4101-bdfc-555a933892d7",
@@ -348,6 +364,14 @@
                 "id": "f1411871-1149-4a96-991a-67e3a1cb86f6",
                 "resourcePath": "sprites\\s_button_shutdown\\s_button_shutdown.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "63f95a5b-28f5-4b2c-b704-1ed723955ad7",
+            "Value": {
+                "id": "144c986d-6493-4dce-b26b-c4f761c1e750",
+                "resourcePath": "objects\\o_sortie_metro\\o_sortie_metro.yy",
+                "resourceType": "GMObject"
             }
         },
         {
