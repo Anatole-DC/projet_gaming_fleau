@@ -6,7 +6,8 @@
     "children": [
         "26dde180-f719-4f15-9f63-99cdcfd684a0",
         "ddf3a748-1b35-4ce0-bef8-0e5d44f91e47",
-        "94f16496-1e84-4ab8-84ac-4a1ca4cc6e46"
+        "94f16496-1e84-4ab8-84ac-4a1ca4cc6e46",
+        "343c6e5b-b524-4e3c-8cd7-256e500953e8"
     ],
     "filterType": "GMObject",
     "folderName": "Solid",
