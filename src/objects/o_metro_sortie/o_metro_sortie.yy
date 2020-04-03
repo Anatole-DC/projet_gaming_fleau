@@ -1,8 +1,8 @@
 {
-    "id": "63f95a5b-28f5-4b2c-b704-1ed723955ad7",
+    "id": "5c7312a5-b66d-42f9-af41-a38eafcfce7a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_sortie_metro",
+    "name": "o_metro_sortie",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1b83350f-8fb5-4246-928f-34cce2695949",
+    "spriteId": "e2234cbc-a868-47f2-af84-a0f4943e510b",
     "visible": true
 }
