@@ -6,7 +6,7 @@
 horizontalSpeed = 0;
 verticalSpeed = 0;
 playerGravity = global.grav;
-jumpingHight = -10;
+jumpingHeight = -10;
 
 // Vitesse de déplacement
 

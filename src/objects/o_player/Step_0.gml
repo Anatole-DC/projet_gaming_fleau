@@ -53,7 +53,7 @@ x += horizontalSpeed;
 
 
 if( place_meeting( x, y + verticalSpeed, o_solid) ) {
-	while( !place_meeting( x, y + sign( verticalSpeed), o_solid )) {
+	while( !place_meeting( x, y + sign( verticalSpeed), o_platform )) {
 		y += sign( verticalSpeed );
 	}
 	verticalSpeed = 0;
@@ -64,8 +64,8 @@ y += verticalSpeed;
 // Saut
 
 
-if( press_jump && place_meeting( x, y + 1, o_solid ) ) {
-	verticalSpeed = jumpingHight;	
+if( press_jump && place_meeting( x, y + 1, o_platform ) ) {
+	verticalSpeed = jumpingHeight;
 }
 
 

@@ -3,5 +3,4 @@
 
 if( interact( o_player, 10 ) ) {
 	show_debug_message( "Interagir avec la poubelle ?" );
-	key_popup("E");
 }

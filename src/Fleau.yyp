@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "61145c7a-942e-4d3d-bcf9-44a3acb33659",
+            "Value": {
+                "id": "4fc4bb41-d238-46b7-ae0f-10c9c49be897",
+                "resourcePath": "sprites\\s_fenetre\\s_fenetre.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "61b21373-f4cb-486e-a88e-ab13f868b0fe",
             "Value": {
                 "id": "44338fac-099e-4dbf-b87f-888ffe4fd57c",
@@ -431,6 +439,22 @@
             }
         },
         {
+            "Key": "88835089-d494-4dc8-ab34-0abc6d30c6bb",
+            "Value": {
+                "id": "d33c1335-6ffc-4090-a42c-80e3691f8a1c",
+                "resourcePath": "sprites\\s_rebord\\s_rebord.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8c055239-b1c9-4b1e-88a0-9748c31a53e3",
+            "Value": {
+                "id": "679b9716-a514-4372-9af5-36c0c6d4ae94",
+                "resourcePath": "objects\\o_fenetre\\o_fenetre.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "92c5a851-6e4a-4973-964d-221455560922",
             "Value": {
                 "id": "9104e874-77b3-44e7-a747-db010561e961",
@@ -444,6 +468,14 @@
                 "id": "dad3c12a-fab2-411a-916d-4ba998d06f8f",
                 "resourcePath": "views\\9392e3ad-a8dc-4126-b4b6-5911c8ef3a29.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "94f16496-1e84-4ab8-84ac-4a1ca4cc6e46",
+            "Value": {
+                "id": "98cebb11-0e62-4b1d-8699-1be8c9160b3b",
+                "resourcePath": "objects\\o_rebord\\o_rebord.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -748,6 +780,14 @@
                 "id": "fca83210-4d0a-456e-8123-ebe0f1324b7c",
                 "resourcePath": "views\\f47d96eb-635b-441f-963f-34ad106085fd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f7e1f3e4-36e8-4dd2-b8f1-917b8b6f2521",
+            "Value": {
+                "id": "e10e686e-3e77-4533-8179-1edb9cdac866",
+                "resourcePath": "rooms\\metro_brochant\\metro_brochant.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
