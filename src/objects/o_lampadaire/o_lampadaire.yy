@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "o_lampadaire",
     "eventList": [
-        
+        {
+            "id": "bf5c60ab-5b22-438b-a785-2c4eac491ed5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "523e82e7-1058-4c20-bcf6-0a4ea97ce4b9"
+        },
+        {
+            "id": "5cfed47e-29c7-4fca-91e5-6dabe9fa16c2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "523e82e7-1058-4c20-bcf6-0a4ea97ce4b9"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
