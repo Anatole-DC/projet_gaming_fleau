@@ -380,8 +380,8 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Rats",
-            "id": "fb36230d-60de-4650-81a8-4361c84b7b54",
+            "name": "Joueur",
+            "id": "63804ee4-d7bf-494d-aeb9-487b5d4deb6a",
             "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
@@ -392,7 +392,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_2F1C3702","id": "634570f5-0b72-4b23-b04c-d1c60e9a8b63","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2F1C3702","objId": "4b6caf00-e8e5-4f7b-93e1-56103b422803","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 416,"y": 1344}
             ],
             "layers": [
 
@@ -406,8 +406,8 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Joueur",
-            "id": "63804ee4-d7bf-494d-aeb9-487b5d4deb6a",
+            "name": "Rats",
+            "id": "fb36230d-60de-4650-81a8-4361c84b7b54",
             "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
@@ -418,7 +418,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_2F1C3702","id": "634570f5-0b72-4b23-b04c-d1c60e9a8b63","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2F1C3702","objId": "4b6caf00-e8e5-4f7b-93e1-56103b422803","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 5216,"y": 1344}
+
             ],
             "layers": [
 
