@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "67a9df56-4db4-4998-90c3-3e9f63af092d",
+            "Value": {
+                "id": "7462f3c0-b02a-4021-b03a-8af757757d05",
+                "resourcePath": "sprites\\s_player_accroupi\\s_player_accroupi.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6888d992-2a2d-4f46-9c55-75c60cce652f",
             "Value": {
                 "id": "9cd66893-c341-41ea-ba14-b53b2e215998",
