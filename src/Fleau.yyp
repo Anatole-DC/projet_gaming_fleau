@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0e9428eb-569b-4c2b-acba-3b25712c6579",
+            "Value": {
+                "id": "3a38eb95-43ef-4d4d-8e32-75c19de6edc2",
+                "resourcePath": "timelines\\tmln_derap\\tmln_derap.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "0ee6717f-5089-4d69-96c7-5848dc1b45dd",
             "Value": {
                 "id": "2249a034-1402-4cc7-b000-1c9fe5141202",
@@ -100,6 +108,14 @@
                 "id": "07fbb1a6-6f31-4869-8c36-956b95c49b14",
                 "resourcePath": "sprites\\s_poteau\\s_poteau.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "19dc6405-9159-49e6-8d35-538cfc9124b8",
+            "Value": {
+                "id": "f171230c-3bd2-4274-bb8b-88c46d423d39",
+                "resourcePath": "scripts\\derap\\derap.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -874,6 +890,7 @@
     "script_order": [
         "4fa106c8-af60-4ed5-a189-fe9cdfa8af71",
         "b1d21eee-5b92-4367-9f24-765b90c6755f",
+        "19dc6405-9159-49e6-8d35-538cfc9124b8",
         "c3955eea-7c63-4e6a-971c-70080b1f3bc2",
         "5eed1c00-729d-4ff8-8dbc-6fd3b0c7402a",
         "ba0caa59-bc58-4e4c-9cbd-503fd220e106"

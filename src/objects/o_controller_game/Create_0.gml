@@ -6,6 +6,7 @@
 global.right = ord("D");
 global.left = ord("Q");
 global.jump = ord("Z");
+global.crawl = ord("S");
 global.interaction = ord("E");
 
 // Variables gloabales pour tous les objets

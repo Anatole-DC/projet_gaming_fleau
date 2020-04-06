@@ -9,6 +9,7 @@ if ( global.pause ) exit;
 press_right = keyboard_check(global.right);
 press_left = keyboard_check(global.left);
 press_jump = keyboard_check(global.jump);
+press_crawl = keyboard_check(global.crawl);
 
 
 // reset des variables
@@ -18,12 +19,18 @@ if( !press_right && !press_left) {
 	playerSpeed = walkSpeed;
 }
 
-
 // Gestion vitesse
+
+if( press_crawl ) {
+	playerSpeed = crawlSpeed;
+}
 
 
 if( double_tap( global.right ) ) {
 	playerSpeed = sprintSpeed;
+	if( press_crawl ) {
+		
+	}
 }
 
 if( double_tap( global.left ) ) {
