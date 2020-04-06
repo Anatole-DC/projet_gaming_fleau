@@ -16,3 +16,7 @@ global.grav = 0.5;
 
 global.detectionRange = 200;
 global.triggeredRange = 100;
+
+// Systeme
+
+global.pause = false;

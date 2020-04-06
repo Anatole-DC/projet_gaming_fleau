@@ -1,6 +1,8 @@
 /// @description Code du joueur
 // Vous pouvez écrire votre code dans cet éditeur
 
+if ( global.pause ) exit;
+
 // Gestion du clavier
 
 

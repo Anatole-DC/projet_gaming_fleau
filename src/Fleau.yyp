@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "5eed1c00-729d-4ff8-8dbc-6fd3b0c7402a",
+            "Value": {
+                "id": "15ea7963-4086-47b2-abba-65f9342684bf",
+                "resourcePath": "scripts\\pauseGame\\pauseGame.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "60c0f40f-ec92-46a1-b64a-bd7271717cba",
             "Value": {
                 "id": "fd4e3750-b4ee-4847-889b-fd3ce9a595f6",
@@ -859,6 +867,7 @@
         "4fa106c8-af60-4ed5-a189-fe9cdfa8af71",
         "b1d21eee-5b92-4367-9f24-765b90c6755f",
         "c3955eea-7c63-4e6a-971c-70080b1f3bc2",
+        "5eed1c00-729d-4ff8-8dbc-6fd3b0c7402a",
         "ba0caa59-bc58-4e4c-9cbd-503fd220e106"
     ],
     "tutorial": ""
