@@ -21,6 +21,10 @@ if( !press_right && !press_left) {
 
 // Gestion vitesse
 
+if( press_crawl ) {
+	playerSpeed = crawlSpeed;
+}
+
 
 if( double_tap( global.right ) ) {
 	playerSpeed = sprintSpeed;
@@ -84,11 +88,8 @@ else {
 	if( horizontalSpeed == 0 ) {
 		sprite_index = s_player_idle;
 	}
-	if( press_right && playerSpeed == walkSpeed or press_left && playerSpeed == walkSpeed) {
+	if( press_right or press_left ) {
 		sprite_index = s_player_walk;
-	}
-	if( playerSpeed == sprintSpeed && press_crawl ) {
-		sprite_index = s_player_glissade;
 	}
 }
 
