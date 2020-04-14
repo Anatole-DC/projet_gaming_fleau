@@ -8,7 +8,7 @@ if ( global.pause ) exit;
 
 press_right = keyboard_check(global.right);
 press_left = keyboard_check(global.left);
-press_jump = keyboard_check(global.jump);
+press_jump = keyboard_check_pressed(global.jump);
 press_crawl = keyboard_check(global.crawl);
 
 
@@ -61,7 +61,7 @@ x += horizontalSpeed;
 // Collision verticale
 
 
-if( place_meeting( x, y + verticalSpeed, o_solid) ) {
+if( place_meeting( x, y + verticalSpeed, o_platform) ) {
 	while( !place_meeting( x, y + sign( verticalSpeed), o_platform )) {
 		y += sign( verticalSpeed );
 	}
@@ -75,8 +75,19 @@ y += verticalSpeed;
 
 if( press_jump && place_meeting( x, y + 1, o_platform ) ) {
 	verticalSpeed = jumpingHeight;
+	doubleJump = true;
 }
 
+if( keyboard_check_released( global.jump ) && doubleJump = true ) {
+	twoJump = true;
+	doubleJump = false;
+}	
+
+if( press_jump && place_meeting( x, y + 1, o_immeuble_etage ) && twoJump = true ) {
+		verticalSpeed = jumpingHeight * 1.2;
+		doubleJump = false;
+		twoJump = false;
+}
 
 // Gestion des sprites
 

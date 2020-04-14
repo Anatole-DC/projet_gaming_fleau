@@ -1,5 +1,5 @@
 {
-    "id": "f1912fb5-60f9-414f-bd48-7f2609e6dfaa",
+    "id": "1be7d774-13c3-4876-8376-6219830d5492",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "o_lumiere",
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5e662fb6-b1d9-451a-8c04-6192da2c404a",
+    "spriteId": "9c74088d-9102-4280-adaa-768a2b76c2be",
     "visible": true
 }

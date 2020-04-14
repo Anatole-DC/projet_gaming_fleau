@@ -1,6 +1,7 @@
 /// @description Initialise le joueur
 // Vous pouvez écrire votre code dans cet éditeur
 
+
 // Physique
 
 horizontalSpeed = 0;
@@ -22,6 +23,8 @@ global.hp = 1;
 
 // Boolean
 
+doubleJump = false;
+twoJump = false;
 doubleTap = false;
 sprint = false;
 crawl = false;
